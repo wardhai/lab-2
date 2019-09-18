@@ -20,5 +20,12 @@ body {
 	font-family: "Times New Roman";
 	color: white;
 	text-align: center;
-
 }
+
+  .submit-button {
+    border-radius: 25px;
+	color: white;
+	font-family: "Pacifico", sans-serif;
+  }
+ }
+ 
