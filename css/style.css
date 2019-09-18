@@ -23,6 +23,7 @@ body {
 }
 
   .submit-button {
+	background-color: DarkGray;
     border-radius: 25px;
 	color: white;
 	font-family: "Pacifico", sans-serif;
